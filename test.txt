@@ -1,1 +1,3 @@
 hello. I'm creating a file now
+
+I'm trying to change this file now. But I still want the same old content in a previous commit
